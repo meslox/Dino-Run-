@@ -1,1 +1,1 @@
-#Dino Run Esp32 based game console 
+Dino Run Esp32 based game console 
